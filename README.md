@@ -318,7 +318,7 @@ java.lang.NoClassDefFoundError: org/apache/curator/framework/recipes/cache/TreeC
     <version>2.8.0</version>
 </dependency>
 ```
-####增加测试jar应该升级如下
+## 增加测试jar应该升级如下
 
 ```
         <dependency>
